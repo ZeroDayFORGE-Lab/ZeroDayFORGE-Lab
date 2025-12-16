@@ -77,3 +77,5 @@ Write-ups, labs, and breakdowns of vulnerabilities & attack surfaces
   <img src="https://streak-stats.demolab.com?user=ZeroDayFORGE-Lab&theme=dark&hide_border=true" />
 </p>
 
+![Snake animation](https://github.com/ZeroDayFORGE-Lab/ZeroDayFORGE-Lab/blob/output/github-contribution-grid-snake.svg)
+
