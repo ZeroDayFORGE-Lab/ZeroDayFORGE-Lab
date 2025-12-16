@@ -73,9 +73,5 @@ Write-ups, labs, and breakdowns of vulnerabilities & attack surfaces
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZeroDayFORGE-Lab&show_icons=true&theme=dark&hide_border=true" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=ZeroDayFORGE-Lab&theme=dark&hide_border=true" />
+  <br/>
 </p>
-
-![Snake animation](https://github.com/ZeroDayFORGE-Lab/ZeroDayFORGE-Lab/blob/output/github-contribution-grid-snake.svg)
-
