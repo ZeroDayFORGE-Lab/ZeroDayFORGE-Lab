@@ -69,10 +69,11 @@ Write-ups, labs, and breakdowns of vulnerabilities & attack surfaces
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StackOverFlowX12&show_icons=true&theme=dark" />
-</p>
+## ⚔️ ZeroDayFORGE-Lab Activity
 
 <p align="center">
-  <i>"Break systems to understand them."</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeroDayFORGE-Lab&show_icons=true&theme=dark&hide_border=true" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=ZeroDayFORGE-Lab&theme=dark&hide_border=true" />
 </p>
+
