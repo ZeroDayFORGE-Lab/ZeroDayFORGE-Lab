@@ -60,7 +60,7 @@ Write-ups, labs, and breakdowns of vulnerabilities & attack surfaces
 * 🎥 YouTube: [https://www.youtube.com/@StackOverflowX12](https://www.youtube.com/@StackOverflowX12)
 * 💬 Discord: [https://discord.com/users/Stack0ver_Flow](https://discord.com/users/Stack0ver_Flow)
 * 🐦 Twitter (X): [https://twitter.com/ZeroDayForge](https://twitter.com/ZeroDayForge)
-* 📸 Instagram: [https://www.instagram.com/stackoverflowx10n](https://www.instagram.com/stackoverflowx10n)
+* 📸 Instagram: [https://www.instagram.com/stackoverflowx10n](https://www.instagram.com/vgggggggggggggggggggg)
 * 💻 GitHub: [https://github.com/StackOverFlowX12](https://github.com/StackOverFlowX12)
 * 👽 Reddit: [https://www.reddit.com/user/hustleinferno29](https://www.reddit.com/user/hustleinferno29)
 * 🔗 LinkedIn: [https://www.linkedin.com/in/stackoverflow12xn](https://www.linkedin.com/in/stackoverflow12xn)
