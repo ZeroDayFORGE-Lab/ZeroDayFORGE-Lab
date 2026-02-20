@@ -1,77 +1,35 @@
-<h1 align="center">Hi there, I'm Kaushik Kumar 👋</h1>
+Kaushik Kumar — ZeroDayFORGE-Lab
+Systems-focused developer and offensive security enthusiast. I research vulnerabilities, build low-level tools, and document findings through technical write-ups and labs.
 
-<p align="center">
-  <b>Offensive Security | C & Linux | Backend & Networking</b><br/>
-  Building at <b>ZeroDayFORGE-Lab</b> • Exploring vulnerabilities, servers & system internals
-</p>
-
-<p align="center">
-  <a href="https://github.com/StackOverFlowX12"><img src="https://img.shields.io/github/followers/StackOverFlowX12?label=GitHub&style=flat-square"></a>
-  <a href="https://twitter.com/ZeroDayForge"><img src="https://img.shields.io/badge/X-@ZeroDayForge-black?style=flat-square"></a>
-  <a href="https://www.linkedin.com/in/stackoverflow12xn"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square"></a>
-  <a href="https://medium.com/@ZeroDayForge"><img src="https://img.shields.io/badge/Medium-Blogs-black?style=flat-square"></a>
-</p>
-
----
-
-## 🚀 What I Do
-
-```json
-{
-  "offensive_security": "Vulnerability research, exploit development, recon & tooling",
-  "systems": "C programming, Linux internals, memory & process analysis",
-  "backend": "Low-level servers, networking, scalable backend services",
-  "learning": "Reverse engineering, OS internals & real-world attacks"
-}
-```
-
----
-
-## 🧰 Tech Stack
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square\&logo=c)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python)
-![Networking](https://img.shields.io/badge/Networking-TCP/IP-orange?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql)
-
-**Focus Areas:**
-Low-Level Systems • Offensive Security • Networking • Backend Engineering
-
----
-
-## 🌟 Highlighted Work
-
-🔹 **ZeroDayFORGE-Lab**
-Offensive security research lab focused on vulnerabilities, exploits, and system internals
-
-🔹 **C-based Server Experiments**
-Custom socket servers, protocol handling & performance testing in pure C
-
-🔹 **Security Learning Content**
-Write-ups, labs, and breakdowns of vulnerabilities & attack surfaces
-
----
-
-## 🌐 Connect With Me
-
-* 📝 Medium: [https://medium.com/@ZeroDayForge](https://medium.com/@ZeroDayForge)
-* 🎥 YouTube: [https://www.youtube.com/@StackOverflowX12](https://www.youtube.com/@StackOverflowX12)
-* 💬 Discord: [https://discord.com/users/Stack0ver_Flow](https://discord.com/users/Stack0ver_Flow)
-* 🐦 Twitter (X): [https://twitter.com/ZeroDayForge](https://twitter.com/ZeroDayForge)
-* 📸 Instagram: [https://www.instagram.com/stackoverflowx10n](https://www.instagram.com/vgggggggggggggggggggg)
-* 💻 GitHub: [https://github.com/StackOverFlowX12](https://github.com/StackOverFlowX12)
-* 👽 Reddit: [https://www.reddit.com/user/hustleinferno29](https://www.reddit.com/user/hustleinferno29)
-* 🔗 LinkedIn: [https://www.linkedin.com/in/stackoverflow12xn](https://www.linkedin.com/in/stackoverflow12xn)
-
----
-
-## 📊 GitHub Stats
-
-## ⚔️ ZeroDayFORGE-Lab Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeroDayFORGE-Lab&show_icons=true&theme=dark&hide_border=true" />
-  <br/>
-</p>
+About
+Focus: reverse engineering, OS internals, exploit development, memory analysis, and deep networking.
+Comfortable building high-performance systems in C and exploring protocol/stack behavior.
+Current Areas of Interest
+Reverse engineering & binary analysis
+OS internals & memory management
+Exploit development fundamentals
+High-performance backend systems (C)
+Deep networking (TCP/IP, sockets, protocol design)
+Socials
+Instagram: https://instagram.com/zerodayforge_offsec
+LinkedIn: https://linkedin.com/in/zerodayforge
+Medium: https://medium.com/@ZeroDayForge
+Quora: https://quora.com/profile/Kaushik-Kumar-919
+Reddit: https://reddit.com/user/TeacherEvening4741
+Stack Overflow: https://stackoverflow.com/users/26588105
+X: https://x.com/ZeroDayForge
+YouTube: https://youtube.com/@ZeroDayForge-x3b
+Email: kaushikkumar.offsec@outlook.com
+Tech Stack (high level)
+Languages: C, C++, Python, JavaScript, Java, PHP
+Tools & Platforms: Linux, AWS, Nginx, Apache, Docker, Jenkins
+DB & Infra: MongoDB, Git, Postman, Cisco tools
+Links (stats & widgets — links only)
+GitHub profile: https://github.com/ZeroDayFORGE-Lab
+GitHub stats (profile cards): https://github-readme-stats.vercel.app/api?username=ZeroDayFORGE-Lab
+Streak stats: https://nirzak-streak-stats.vercel.app/?user=ZeroDayFORGE-Lab
+Top languages: https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroDayFORGE-Lab
+Random dev quote: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
+Top contributed repos: https://github-contributor-stats.vercel.app/api?username=ZeroDayFORGE-Lab&limit=5
+Visit count: https://visitcount.itsvg.in/api?id=ZeroDayFORGE-Lab
+If you'd like this README shortened, converted into a GitHub profile README (with a particular layout), or exported to a different filename, tell me which sections to keep and I will update ReadMe.md accordingly.
