@@ -1,35 +1,84 @@
-Kaushik Kumar — ZeroDayFORGE-Lab
-Systems-focused developer and offensive security enthusiast. I research vulnerabilities, build low-level tools, and document findings through technical write-ups and labs.
+<!-- ============================= -->
+<!-- ZeroDayFORGE — Elite Profile -->
+<!-- ============================= -->
 
-About
-Focus: reverse engineering, OS internals, exploit development, memory analysis, and deep networking.
-Comfortable building high-performance systems in C and exploring protocol/stack behavior.
-Current Areas of Interest
-Reverse engineering & binary analysis
-OS internals & memory management
-Exploit development fundamentals
-High-performance backend systems (C)
-Deep networking (TCP/IP, sockets, protocol design)
-Socials
-Instagram: https://instagram.com/zerodayforge_offsec
-LinkedIn: https://linkedin.com/in/zerodayforge
-Medium: https://medium.com/@ZeroDayForge
-Quora: https://quora.com/profile/Kaushik-Kumar-919
-Reddit: https://reddit.com/user/TeacherEvening4741
-Stack Overflow: https://stackoverflow.com/users/26588105
-X: https://x.com/ZeroDayForge
-YouTube: https://youtube.com/@ZeroDayForge-x3b
-Email: kaushikkumar.offsec@outlook.com
-Tech Stack (high level)
-Languages: C, C++, Python, JavaScript, Java, PHP
-Tools & Platforms: Linux, AWS, Nginx, Apache, Docker, Jenkins
-DB & Infra: MongoDB, Git, Postman, Cisco tools
-Links (stats & widgets — links only)
-GitHub profile: https://github.com/ZeroDayFORGE-Lab
-GitHub stats (profile cards): https://github-readme-stats.vercel.app/api?username=ZeroDayFORGE-Lab
-Streak stats: https://nirzak-streak-stats.vercel.app/?user=ZeroDayFORGE-Lab
-Top languages: https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroDayFORGE-Lab
-Random dev quote: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
-Top contributed repos: https://github-contributor-stats.vercel.app/api?username=ZeroDayFORGE-Lab&limit=5
-Visit count: https://visitcount.itsvg.in/api?id=ZeroDayFORGE-Lab
-If you'd like this README shortened, converted into a GitHub profile README (with a particular layout), or exported to a different filename, tell me which sections to keep and I will update ReadMe.md accordingly.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=ZeroDayFORGE+%2F%2F+Offensive+Research" />
+</p>
+
+<h1 align="center">Kaushik Kumar</h1>
+<p align="center">
+Systems Developer • Offensive Security Researcher • Reverse Engineering
+</p>
+
+---
+
+<h2>Research Focus</h2>
+
+<p>
+I build low-level systems, analyze binaries, research vulnerabilities,  
+and document technical findings through structured labs and write-ups.
+</p>
+
+<ul>
+<li>Reverse Engineering & Binary Analysis</li>
+<li>Operating System Internals & Memory Management</li>
+<li>Exploit Development Fundamentals</li>
+<li>High-Performance Backend Systems (C)</li>
+<li>Deep Networking — TCP/IP, Sockets, Protocol Design</li>
+</ul>
+
+---
+
+<h2>Core Stack</h2>
+
+<strong>Languages</strong><br>
+C • C++ • Python • JavaScript • Java • PHP
+
+<br><br>
+
+<strong>Systems & Infrastructure</strong><br>
+Linux • AWS • Docker • Nginx • Apache • Jenkins
+
+<br><br>
+
+<strong>Tools</strong><br>
+Git • MongoDB • Postman • Cisco Networking
+
+---
+
+<h2 align="center">Offensive Security Analytics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeroDayFORGE-Lab&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ZeroDayFORGE-Lab&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroDayFORGE-Lab&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
+</p>
+
+---
+
+<h2 align="center">Connect</h2>
+
+<p align="center">
+<a href="https://github.com/ZeroDayFORGE-Lab">GitHub</a> •
+<a href="https://linkedin.com/in/zerodayforge">LinkedIn</a> •
+<a href="https://x.com/ZeroDayForge">X</a> •
+<a href="https://medium.com/@ZeroDayForge">Medium</a> •
+<a href="https://youtube.com/@ZeroDayForge-x3b">YouTube</a>
+</p>
+
+<p align="center">
+kaushikkumar.offsec@outlook.com
+</p>
+
+---
+
+<p align="center">
+<sub>Build • Break • Understand • Repeat</sub>
+</p>
