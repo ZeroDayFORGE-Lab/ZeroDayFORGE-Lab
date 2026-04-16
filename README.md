@@ -1,15 +1,17 @@
 <!-- ============================= -->
-<!-- ZeroDayFORGE — Elite Profile -->
+<!-- ZeroDayFORGE — Technical Overview -->
 <!-- ============================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=ZeroDayFORGE+%2F%2F+Systems+%7C+Security+%7C+Reverse+Engineering" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=+ZeroDayFORGE+%2F%2F+Systems+%7C+Security+" alt="Typing SVG">
+  </a>
 </p>
 
 <h1 align="center">Kaushik Kumar</h1>
 
 <p align="center">
-Systems Developer • Security Researcher • Reverse Engineering Enthusiast
+Systems Developer, Security Researcher, Reverse Engineering Enthusiast
 </p>
 
 ---
@@ -20,7 +22,7 @@ Systems Developer • Security Researcher • Reverse Engineering Enthusiast
 
 ## 🧠 About Me
 
-I work on low-level systems, analyze binaries, and explore how software behaves at the system level.  
+I work on low-level systems, analyze compiled software binaries, and explore how software behaves at the system level.  
 My focus is on building technical depth through **hands-on engineering and structured labs**.
 
 I document everything through practical experiments, automation scripts, and research notes.
@@ -38,9 +40,6 @@ I document everything through practical experiments, automation scripts, and res
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" />
-</p>
 
 ## ⚙️ Tech Stack
 
@@ -49,6 +48,9 @@ I document everything through practical experiments, automation scripts, and res
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Bash Automation
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### Systems & Infra
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
