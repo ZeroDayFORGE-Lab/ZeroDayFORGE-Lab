@@ -40,10 +40,7 @@
   </a>
 </p>
 
---
-
 ## About
-
 I am a cybersecurity enthusiast focused on understanding how systems operate internally, how software behaves at runtime, and how security vulnerabilities emerge.
 
 I learn through practical labs, CTFs, research projects, documentation, writeups, and hands-on experimentation.
